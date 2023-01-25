@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+}
+#navbar {
+  margin: 0px;
+  background-color: blue;
+  height: 200px;
+  width: 100vw;
+  font-size: 24px;
+  font-family: "Bebas Neue", cursive;
+}
+.nav_list {
+  display: flex;
+  list-style: none;
+  justify-content: flex-end;
+  padding-right: 150px;
+  padding-top: 40px;
+}
+.nav_model {
+  padding: 10px;
+}
